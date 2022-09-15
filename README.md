@@ -6,6 +6,9 @@ En el archivo *encontrar_errores.php* se encuentra el código con los errores re
 # Evaluación
 En el archivo *Evaluacion.docx* se encuentran las respuestas de la evaluación.
 
+# Base de datos
+En el archivo ` db.sql ` se encuentran las sentencias SQL para crear la base de datos, las tablas, las vistas y los registros. Favor de correrlo en el servidor de base de datos.
+
 # Backend
 En la carpeta *backend* se encuentra el proyecto de Laravel. Es necesario tener *composer* para iniciarlo:
 ` cd backend `
